@@ -1,0 +1,31 @@
+ # hours in a year - How many hours are in a year?
+ # 365 days = 1 year 
+ # 1 day = 24 hours
+ # 365 days * 24 hours = 8760 hours in a year 
+
+ puts 365 * 24 
+
+ # Minutes in a decade - How many miunutes are in a decade? 
+ # 60 minutes = 1 hour
+ #  >>  24 hours = 1 day 
+ # 1440 minutes = 1 day
+ # 3650 days = 10 years
+ # 10 years = 1 decade 
+ # how many minutes in a day - would be more useful first step to solve this problem 
+  # 60 minutes * 24 hours = 1440 minutes 
+  # 1440 minutes * 3650 days = minutes in a decade
+  
+  puts 1440 * 3650
+
+
+ # Your age in seconds - How many seconds old are you? 
+ # 33 years
+ # number of seconds in one day 
+ # 1440 minutes * 60 seconds = 86400 seconds in a day
+ # 86400 seconds * 365 days = 31536000 seconds in a year 
+ # 60 seconds = 1 minute
+ # 24 hours = 1 day
+ # 1440 minutes * 365 days = 525600 minutes in a year 
+ 
+ puts 31536000 * 33 
+
